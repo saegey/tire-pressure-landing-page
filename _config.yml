@@ -1,5 +1,5 @@
 #page title
-page_title: Tire Pressure Advisor# Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Tire Pressure Advisor
 
 # App Info
 ios_app_id: 6443547772 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
