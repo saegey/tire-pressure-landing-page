@@ -39,7 +39,7 @@ features:
     description: Based on the same calculations from the <a href="https://silca.cc/pages/sppc-form">Silca Tire Pressure calculator</a>
     fontawesome_icon_name: calculator
 
-  - title: New Features (Coming soon!)
+  - title: Coming soon!
     description: Ability to save wheelsets/tire combinations and measured width
     fontawesome_icon_name: sparkles
 
