@@ -41,7 +41,7 @@ features:
 
   - title: Coming soon!
     description: Ability to save wheelsets/tire combinations and measured width
-    fontawesome_icon_name: tire
+    fontawesome_icon_name: star
 
 # Theme Settings
 topbar_color: "#000000"
