@@ -26,8 +26,8 @@ email_address: adam.saegebarth@gmail.com
 facebook_username:
 instagram_username: saegey
 twitter_username:
-github_username:
-youtube_username:
+github_username: saegey
+youtube_username: saegey
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
@@ -36,12 +36,12 @@ features:
     fontawesome_icon_name: bookmark
 
   - title: Accurate
-    description: Based on the same calulations from the <a href="http://silca.com">Silca Tire Pressure calculator</a>
+    description: Based on the same calculations from the <a href="https://silca.cc/pages/sppc-form">Silca Tire Pressure calculator</a>
     fontawesome_icon_name: calculator
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: star
+  - title: New Features (Coming soon!)
+    description: Ability to save wheelsets/tire combinations and measured width
+    fontawesome_icon_name: sparkles
 
 # Theme Settings
 topbar_color: "#000000"
