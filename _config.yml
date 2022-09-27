@@ -36,7 +36,7 @@ features:
     fontawesome_icon_name: bookmark
 
   - title: Accurate
-    description: Based on the same calulations from the [Silca Tire Pressure calculator](http://silca.com)
+    description: Based on the same calulations from the <a href="http://silca.com">Silca Tire Pressure calculator</a>
     fontawesome_icon_name: calculator
 
   - title: Feature List
